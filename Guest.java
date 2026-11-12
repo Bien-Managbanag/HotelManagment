@@ -1,4 +1,4 @@
-package hotel-management-project;
+package HotelManagment;
 
 public class Guest {
     
